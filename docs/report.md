@@ -95,7 +95,7 @@
 ### In conclusion, hotel reservations can be canceled for various reasons regardless of the price. Based on the findings, it seems that guests who make special requests or book a parking spot are more committed to their stay and have a lower likelihood of canceling their reservation. Additionally, among the classification algorithms used, it was determined that the Random Forest algorithm was the most effective for this dataset.
 
 ## Presentation ppt: https://github.com/DATA-606-SPRING-2023-TUE/Manoj_DATA606/blob/main/docs/capstone.pptx
-## Presentation Video: 
+## Presentation Video: https://youtu.be/pX674kaysSo
 
 
 
